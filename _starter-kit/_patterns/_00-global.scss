@@ -7,4 +7,4 @@
 // Helper functions and mixins from external libraries.
 @import 'breakpoint'; // github.com/Team-Sass/breakpoint
 
-@import '../sass-globbing/global';
+@import '00-global/**/*.scss';

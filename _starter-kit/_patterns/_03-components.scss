@@ -5,4 +5,4 @@
 // partials in the `components` folder. Sass globbing will
 // automatically import these partials.
 
-@import '../sass-globbing/components';
+@import '03-components/**/*.scss';
